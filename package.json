@@ -1,0 +1,14 @@
+{
+    "name": "Prueba-unitaria2",
+    "version": "1.0.0",
+    "description": "Proyecto de prueba unitaria en Node.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specific"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
