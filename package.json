@@ -1,0 +1,11 @@
+{
+    "name": "Prueba-unitaria2",
+    "version": "1.0.0",
+    "description": "Proyecto de prueba unitaria en Node.js",
+    "main": "index.js",
+    "scripts": {
+    "test": "npx jest index.test.js" 
+    },
+    "author": "",
+    "license": "ISC"
+  } 
